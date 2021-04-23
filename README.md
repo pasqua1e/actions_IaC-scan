@@ -1,5 +1,5 @@
-# actions_IaC-scan
-GithubActions_IaC-scan
+# Guthub Actions IaC-scan
+Github Actions_IaC-scan
 
 Simple example to show Prisma Cloud integration with Github Actions
 
